@@ -1,0 +1,4 @@
+/**app.wxss**/
+.container {
+  padding: 40rpx 40rpx 0;
+}
